@@ -1,1 +1,1 @@
-# computer-gaeron
+# 컴퓨터개론
